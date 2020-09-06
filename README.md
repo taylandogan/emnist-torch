@@ -1,2 +1,2 @@
-# mnist-torch
-An MNIST solution to learn PyTorch
+# emnist-torch
+An EMNIST solution to learn PyTorch
